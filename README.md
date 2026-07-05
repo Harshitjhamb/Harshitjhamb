@@ -11,9 +11,9 @@
 I'm a Computer Science undergraduate at **NIT Delhi** (B.Tech, CGPA 8.93) with a strong interest in software development, AI/ML systems, and scalable web applications. I like turning ambiguous problems into deployed, working software - from XGBoost traffic models with **0.98 AUC** to offline multimodal video-intelligence pipelines.
 
 - 🔭 Currently building full-stack products and exploring applied machine learning
-- 🌱 Currently exploring LLM pipelines, multimodal models, and system design
 - 💡 400+ Data Structures & Algorithms problems solved on LeetCode
 - 🏆 Consistently ranked in the top 5% of my batch at NIT Delhi
+- 🌱 Currently exploring LLM pipelines, multimodal models, and system design
 - ⚡ Active hackathon participant - Flipkart Gridlock 2.0, ET Gen AI Hackathon, TRAE Hackathon, MathWorks CodeMatrix Sprint
 - 📫 Reach me at **harshitjhamb03@gmail.com**
 
@@ -44,7 +44,6 @@ I'm a Computer Science undergraduate at **NIT Delhi** (B.Tech, CGPA 8.93) with a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -62,7 +61,7 @@ ML dashboard trained on 8,173 ASTRAM traffic events, predicting incident priorit
 
 `Python` `XGBoost` `Streamlit` `Folium` `GitHub Actions`
 
-**3 XGBoost models** [🔗 Live Demo](https://printease-client.vercel.app)
+**3 XGBoost models** [🔗 Live Demo](https://hellobengaluru.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -105,12 +104,9 @@ A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K com
 ## GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Harshitjhamb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitjhamb&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitjhamb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
 </div>
 
 <br>
@@ -121,7 +117,6 @@ A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K com
 - 🧩 Solved **400+** Data Structures and Algorithms problems on LeetCode
 - 🥇 **Winner** - Synergy Workshop Competition, NIT Delhi (2025)
 - 🚀 **Top 10 teams** - TRAE Hackathon, NIT Delhi (2026)
-- 🎯 **Finalist** (Top 6 of 30) - MathWorks CodeMatrix Sprint Hackathon
 - ✅ Selected into **Round 2** - Flipkart Gridlock 2.0 Hackathon
 
 <br>
