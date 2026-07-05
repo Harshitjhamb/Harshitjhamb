@@ -102,15 +102,12 @@ A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K com
 <br>
 
 ## GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Harshitjhamb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitjhamb&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitjhamb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshitjhamb&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitjhamb&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitjhamb&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </div>
-
 <br>
-
 ## Achievements
 
 - 🏅 Consistently ranked in the **top 5%** of the batch at NIT Delhi
