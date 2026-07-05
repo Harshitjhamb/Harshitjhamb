@@ -108,6 +108,8 @@ A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitjhamb&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </div>
 <br>
+
+
 ## Achievements
 
 - 🏅 Consistently ranked in the **top 5%** of the batch at NIT Delhi
