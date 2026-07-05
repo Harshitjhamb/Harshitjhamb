@@ -8,13 +8,13 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at **NIT Delhi** (B.Tech, CGPA 8.93) with a strong interest in software development, AI/ML systems, and scalable web applications. I like turning ambiguous problems into deployed, working software — from XGBoost traffic models with **0.98 AUC** to offline multimodal video-intelligence pipelines.
+I'm a Computer Science undergraduate at **NIT Delhi** (B.Tech, CGPA 8.93) with a strong interest in software development, AI/ML systems, and scalable web applications. I like turning ambiguous problems into deployed, working software - from XGBoost traffic models with **0.98 AUC** to offline multimodal video-intelligence pipelines.
 
 - 🔭 Currently building full-stack products and exploring applied machine learning
 - 🌱 Currently exploring LLM pipelines, multimodal models, and system design
 - 💡 400+ Data Structures & Algorithms problems solved on LeetCode
 - 🏆 Consistently ranked in the top 5% of my batch at NIT Delhi
-- ⚡ Active hackathon participant — Flipkart Gridlock 2.0, ET Gen AI Hackathon, TRAE Hackathon, MathWorks CodeMatrix Sprint
+- ⚡ Active hackathon participant - Flipkart Gridlock 2.0, ET Gen AI Hackathon, TRAE Hackathon, MathWorks CodeMatrix Sprint
 - 📫 Reach me at **harshitjhamb03@gmail.com**
 
 <br>
@@ -58,17 +58,17 @@ I'm a Computer Science undergraduate at **NIT Delhi** (B.Tech, CGPA 8.93) with a
 <td width="50%" valign="top">
 
 ### 🚦 [Bengaluru Traffic Congestion Response Recommender](https://github.com/Harshitjhamb/Traffic_meta)
-ML dashboard trained on 8,173 ASTRAM traffic events, predicting incident priority, road-closure requirement, and estimated duration in real time — with a GPS-based deployment recommendation engine and live Folium hotspot map.
+ML dashboard trained on 8,173 ASTRAM traffic events, predicting incident priority, road-closure requirement, and estimated duration in real time - with a GPS-based deployment recommendation engine and live Folium hotspot map.
 
 `Python` `XGBoost` `Streamlit` `Folium` `GitHub Actions`
 
-**0.98 AUC** · **89% avg confidence** · **3 XGBoost models**
+**3 XGBoost models** [🔗 Live Demo](https://printease-client.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖨️ [PrintEase](https://github.com/Harshitjhamb/printease)
-Full-stack MERN platform for college print centers — browser or Google Drive uploads, NLP-based instruction parsing with manual override, Razorpay payment-gated FIFO job queuing, and a role-based admin portal with CSV revenue exports.
+Full-stack MERN platform for college print centers - browser or Google Drive uploads, NLP-based instruction parsing with manual override, Razorpay payment-gated FIFO job queuing, and a role-based admin portal with CSV revenue exports.
 
 `MongoDB` `Express.js` `React.js` `Node.js` `Razorpay`
 
@@ -80,7 +80,7 @@ Full-stack MERN platform for college print centers — browser or Google Drive u
 <td width="50%" valign="top">
 
 ### 🎬 [Vidlens AI](https://github.com/Harshitjhamb/Vidlens_AI)
-Offline multimodal video-intelligence pipeline fusing Whisper ASR, SmolVLM2 frame-level vision, and a Qwen2.5 LLM for synthesis — with intelligent temporal chunking to fit an 8GB VRAM budget.
+Offline multimodal video-intelligence pipeline fusing Whisper ASR, SmolVLM2 frame-level vision, and a Qwen2.5 LLM for synthesis - with intelligent temporal chunking to fit an 8GB VRAM budget.
 
 `PyTorch` `Whisper` `SmolVLM2` `Qwen2.5` `FFmpeg`
 
@@ -90,7 +90,7 @@ Offline multimodal video-intelligence pipeline fusing Whisper ASR, SmolVLM2 fram
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
-A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K command palette, animated project filtering, and interactive canvas backgrounds — no framework, no build step.
+A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K command palette, animated project filtering, and interactive canvas backgrounds - no framework, no build step.
 
 `HTML` `CSS` `Vanilla JS`
 
@@ -119,10 +119,10 @@ A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K com
 
 - 🏅 Consistently ranked in the **top 5%** of the batch at NIT Delhi
 - 🧩 Solved **400+** Data Structures and Algorithms problems on LeetCode
-- 🥇 **Winner** — Synergy Workshop Competition, NIT Delhi (2025)
-- 🚀 **Top 10 teams** — TRAE Hackathon, NIT Delhi (2026)
-- 🎯 **Finalist** (Top 6 of 30) — MathWorks CodeMatrix Sprint Hackathon
-- ✅ Selected into **Round 2** — Flipkart Gridlock 2.0 Hackathon
+- 🥇 **Winner** - Synergy Workshop Competition, NIT Delhi (2025)
+- 🚀 **Top 10 teams** - TRAE Hackathon, NIT Delhi (2026)
+- 🎯 **Finalist** (Top 6 of 30) - MathWorks CodeMatrix Sprint Hackathon
+- ✅ Selected into **Round 2** - Flipkart Gridlock 2.0 Hackathon
 
 <br>
 
