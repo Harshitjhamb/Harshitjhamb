@@ -91,7 +91,7 @@ Offline multimodal video-intelligence pipeline fusing Whisper ASR, SmolVLM2 fram
 ### 🌐 Portfolio Website
 A fully self-contained, single-file portfolio with dark/light mode, a Ctrl+K command palette, animated project filtering, and interactive canvas backgrounds - no framework, no build step.
 
-`HTML` `CSS` `Vanilla JS`
+`HTML` `CSS` `JS`
 
 [🔗 View Portfolio](https://profile-demo-3guy.onrender.com)
 
